@@ -12,3 +12,13 @@ Join us to build a secure and cloud-agnostic CI pipeline. We'll use GitLab-CI fo
 This project is compose of 2 repository (added via `git submodules`):
 1. **hcp-vault-tfc-init**: This Terraform folder is dedicated to create and configure the Vault server. This repository should be the first repository to be used before jumping to the next one.
 2. **project-gitlab-terraform-vault**: This Terraform folder is dedicated to deploy an application with a Vault agent to retrieve secrets seamless.
+
+## Slides of the talk
+
+You can find the slides in [here](https://docs.google.com/presentation/d/1Vrt1NQT-BqJLbIdSgv9GaqNgRDmeo00V/edit?usp=sharing&ouid=116103448476400589337&rtpof=true&sd=true).
+
+## Contact
+
+You see something wrong ? You want extra information or more ?
+
+Contact me: <contact@mehdilaruelle.com>
