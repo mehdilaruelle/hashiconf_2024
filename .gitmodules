@@ -1,0 +1,6 @@
+[submodule "project-gitlab-terraform-vault"]
+	path = project-gitlab-terraform-vault
+	url = git@github.com:mehdilaruelle/project-gitlab-terraform-vault.git
+[submodule "hcp-vault-tfc-init"]
+	path = hcp-vault-tfc-init
+	url = git@github.com:mehdilaruelle/hcp-vault-tfc-init.git
